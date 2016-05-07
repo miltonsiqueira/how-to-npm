@@ -16,7 +16,5 @@
   },
   "homepage": "https://github.com/titomilton/myfirstnodepkg#readme",
   "description": "",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.3"
-  }
+  "dependencies": {}
 }
